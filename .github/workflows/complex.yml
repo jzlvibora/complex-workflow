@@ -10,7 +10,7 @@ jobs:
     - name: Check Commit Message
   # You may pin to the exact commit or the version.
   # uses: adityaa30/check-commit@f91bff86f4bc6e285e91ea60cba690713783ea44
-      uses: jzlvibora/complex-workflow@01
+      uses: jzlvibora/complex-workflow@475c72041c6ae436be088c56fd998902ad7886ae
       with:
     # <scope> field will be compulsory inside commit header specify true or false. defaults to false
 
